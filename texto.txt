@@ -1,1 +1,2 @@
 bitdoglab show
+texto um sem edição iniciando continuando
